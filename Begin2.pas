@@ -3,7 +3,7 @@ var a,s : integer;
 begin
   write('Введите число ');
   readln(a);
-  s:=a*a;
+  s:=sqr(a);
   write('Площадь квадрата: ',s);
   
 end.
