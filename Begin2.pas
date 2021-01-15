@@ -5,5 +5,6 @@ begin
   readln(a);
   s:=sqr(a);
   write('Площадь квадрата: ',s);
+  {jhg}
   
 end.
