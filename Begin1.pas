@@ -1,6 +1,6 @@
 ﻿program begin1;
 var
-  a,p : integer;
+  a,p,b : integer;
  
   
 begin
