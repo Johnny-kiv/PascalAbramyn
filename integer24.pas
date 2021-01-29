@@ -3,8 +3,8 @@ var
    a :integer;
    b:real;
 begin
-  write('Введите номер дня года: ');
+  write('Enter the number of the day of the year: ');
   readln(a);
   b:=a mod 7;
-  writeln('',b);  
+  writeln('Day week: ',b);  
 end.
