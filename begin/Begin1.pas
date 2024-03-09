@@ -4,11 +4,11 @@ var
  
   
 begin
-  write('Введите первое число: ');
+  write('Enter the first number: ');
   readln(a);
-  write('Введите второе число: ');
+  write('Enter the second number: ');
   readln(b);
   p:=(a+b)*2;
-  write('Периметр: ',p);
+  write('Perimeter is',p);
   
 end.
